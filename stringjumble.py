@@ -1,7 +1,7 @@
 """
 stringjumble.py
 Author: Johannes Testorf
-Credit: <sources>
+Credit: Wilson Rimberg, Leon Kuhne
 
 Assignment:
 
@@ -30,3 +30,5 @@ letters = input("Please enter a string of text (the bigger the better): ")
 print("You entered "+letters+". Now jumble it: ")
 reverse = letters[::-1]
 print(reverse)
+words = letters.split()
+print[words::-1]
