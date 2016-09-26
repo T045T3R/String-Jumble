@@ -40,4 +40,4 @@ print()
 poop = reverse.split()
 crap = poop[::-1]
 for x in crap:
-    print x,end=" "
+    print(x, end=" ")
