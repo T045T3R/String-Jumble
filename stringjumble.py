@@ -30,3 +30,8 @@ letters = input("Please enter a string of text (the bigger the better): ")
 print('You entered "'+letters+'". Now jumble it: ')
 reverse = letters[::-1]
 print(reverse)
+words = letters.split()
+length = len(letters)
+wordreverse= words[::-1]
+for x in wordreverse:
+    print(x,end=" '"
