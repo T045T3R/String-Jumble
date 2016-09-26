@@ -35,6 +35,6 @@ length = len(letters)
 wreverse= words[::-1]
 for x in wreverse:
     print(x,end=" ")
-for x in wreverse:
-    x=poop=x[::-1]
+for a in wreverse:
+    poop=a[::-1]
 print(poop, end=" ")
