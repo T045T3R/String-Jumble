@@ -26,7 +26,7 @@ handy find may you that tricks or techniques few a are There
 erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 """
 
-letters = input("Please enter a string of text (the bigger the better): "
+letters = input("Please enter a string of text (the bigger the better): ")
 print("You entered "+letters+". Now jumble it: ")
-reverse = string[::-1]
+reverse = letters[::-1]
 print(reverse)
