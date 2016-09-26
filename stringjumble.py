@@ -36,6 +36,5 @@ wreverse= words[::-1]
 for x in wreverse:
     print(x,end=" ")
 print()
-for a in wreverse:
-    poop=a[::-1]
-    print(poop, end=" ")
+poop=wreverse[::-1]
+print(poop)
