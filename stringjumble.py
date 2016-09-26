@@ -34,4 +34,4 @@ words = letters.split()
 length = len(letters)
 wordreverse= words[::-1]
 for x in wordreverse:
-    print(x,end=" '"
+    print(x,end=" ")
