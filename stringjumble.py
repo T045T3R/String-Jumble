@@ -32,6 +32,9 @@ reverse = letters[::-1]
 print(reverse)
 words = letters.split()
 length = len(letters)
-wordreverse= words[::-1]
-for x in wordreverse:
+wreverse= words[::-1]
+for x in wreverse:
     print(x,end=" ")
+for x in wreverse:
+    x=poop=x[::-1]
+print(poop, end=" "
