@@ -1,6 +1,6 @@
 """
 stringjumble.py
-Author: <your name>
+Author: Johannes Testorf
 Credit: <sources>
 
 Assignment:
