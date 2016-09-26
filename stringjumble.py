@@ -37,4 +37,4 @@ for x in wreverse:
     print(x,end=" ")
 for a in wreverse:
     poop=a[::-1]
-print(poop, end=" ")
+    print(poop, end=" ")
